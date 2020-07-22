@@ -4,7 +4,7 @@ Unit test cases for nodict.py
 Students should not modify this file.
 """
 
-__author__ = "madarp"
+__author__ = "Chris W. and Tiffany M."
 
 import sys
 import unittest
