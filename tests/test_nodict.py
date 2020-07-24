@@ -4,21 +4,27 @@ Unit test cases for nodict.py
 Students should not modify this file.
 """
 
-__author__ = "Chris W. and Tiffany M."
+
+__author__ = """Chris M., Tiffany M helped me!!!"""
+
 
 import sys
 import unittest
 import importlib
 import inspect
 
+
 # suppress __pycache__ and .pyc files
 sys.dont_write_bytecode = True
+
 
 # Ensure python 3+
 assert sys.version_info[0] >= 3
 
+
 # curriculum devs: change this to 'soln.nodict' to test solution
 PKG_NAME = 'nodict'
+
 
 # alias for module under test
 nodict = None
